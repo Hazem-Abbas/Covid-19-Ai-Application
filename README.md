@@ -4,10 +4,10 @@
 Covid 19 AI is a desktop application that utilizes deep learning and computer vision techniques to detect whether faces are wearing a mask, not wearing a mask, or wearing it incorrectly. The application is built using Python and OpenCV, making it easy to install and use on any desktop platform. It is designed to be user-friendly, with a graphical user interface (GUI) that allows the user to choose between using a live camera, an image, or a video.
 
 ## Table of Contents
-Features
-Installation
-Usage
-Model Training
+- Features
+- Installation
+- Usage
+- Model Training
 
 ## Features
 - Detects whether faces are wearing a mask, not wearing a mask, or wearing it incorrectly in real-time
